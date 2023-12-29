@@ -16,7 +16,6 @@
   "bugs": {
     "url": "https://github.com/Nithya03sk/react/issues"
   },
-  "homepage": "https://github.com/Nithya03sk/react#readme",
   "devDependencies": {
     "parcel": "^2.9.3",
     "process": "^0.11.10"
